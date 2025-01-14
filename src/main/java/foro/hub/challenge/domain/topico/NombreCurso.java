@@ -1,4 +1,4 @@
-package foro.hub.challenge.topico;
+package foro.hub.challenge.domain.topico;
 
 public enum NombreCurso {
     HTTP_EN_LA_WEB,

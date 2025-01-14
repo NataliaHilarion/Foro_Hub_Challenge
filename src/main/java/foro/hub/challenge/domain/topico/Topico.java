@@ -1,4 +1,4 @@
-package foro.hub.challenge.topico;
+package foro.hub.challenge.domain.topico;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
